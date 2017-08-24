@@ -1,4 +1,5 @@
-#Naive Bayes Digit Classifier
+# Naive Bayes Digit Classifier
+[View the Jupyter Notebook](https://nbviewer.jupyter.org/github/Carpetfizz/naive_bayes_classifier/blob/master/Naive%20Bayes%20Digit%20Classifier.ipynb)
 
 ![Camera](http://i.imgur.com/ufH0sdc.jpg)
 
